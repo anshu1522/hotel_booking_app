@@ -1,0 +1,14 @@
+.loginpage{
+    background-image:url("https://img.freepik.com/premium-photo/booking-flight-travel-website-concept_53876-87734.jpg?w=996") ;
+   background-size: cover;
+   background-repeat: no-repeat;
+   min-height: 100vh;
+   margin: 0;
+   padding: 0;
+}
+.welcome{
+   font-size: 30px; 
+   font-weight: 500;
+
+}
+
